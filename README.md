@@ -48,6 +48,6 @@ As faixas salariais anuais variam conforme a especialização:
 Ao começar sua conta gratuita, sua primeira aula deve ser sobre **AWS Budgets**. Configure um alerta para \$1.00 para evitar surpresas no cartão de crédito enquanto explora os +150 serviços.
 
 ---
-**Próximo Evento:** 5º Meetup AWS UG Anápolis - 20 de Abril de 2026.
-**Local:** UniEvangelica - Avenida Universitária nº 3500, Cidade Universitária , Anápolis - GO
-**Organização:** Arthur William, Leilane Portes, Nicolle Xavier e Weder Sousa.
+- **Próximo Evento:** 5º Meetup AWS UG Anápolis - 20 de Abril de 2026.
+- **Local:** UniEvangelica - Avenida Universitária nº 3500, Cidade Universitária , Anápolis - GO
+- **Organização:** Arthur William, Leilane Portes, Nicolle Xavier e Weder Sousa.
